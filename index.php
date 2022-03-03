@@ -7,7 +7,7 @@
 <body>
 <h1>Tablas de multiplicar</h1>
 <h3>Escribe un número del 1 al 30 y  te diré la tabla de multiplicar.</h3>
-<form action="seis.php" method="post">
+<form action="index.php" method="post">
    <p>Escribe aquí el número entre en 1 y el 30: <input type="text" name="num" maxlength="2" size="2" /></p>
    <p><input type="submit" value="Ver tabla de multiplicar." /></p>
 </form>
